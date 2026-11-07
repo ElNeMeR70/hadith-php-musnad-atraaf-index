@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-musnad-atraaf-index",
+  "description": "Companion Musnad & Atraaf Incipit Inverted Indexer (مفهرس الأطراف والمسانيد الصحابية الآلي)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
